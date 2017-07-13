@@ -1,0 +1,9 @@
+build/
+nbproject/*
+!nbproject/project.xml
+!nbproject/project.properties
+dist/
+*.class
+*.jpg
+web/resources/images/adverts/
+
